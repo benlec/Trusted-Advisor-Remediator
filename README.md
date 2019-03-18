@@ -15,6 +15,3 @@ Setup and usage instructions are present for each tool in its respective directo
 ![Architecture](images/LowUtilizationEC2InstancesArchitecture.jpg)
 
 More information about Trusted Advisor is available here: https://aws.amazon.com/premiumsupport/trustedadvisor/
-
-### License
-Trusted Advisor Tools is licensed under the Apache 2.0 License.
