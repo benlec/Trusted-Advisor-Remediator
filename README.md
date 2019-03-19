@@ -11,7 +11,7 @@ Setup and usage instructions are present for each tool in its respective directo
 [Create snapshots for EBS volumes with no recent backup](AmazonEBSSnapshots/) <br />
 [Delete exposed IAM Keys and monitor usage](ExposedAccessKeys/)<br />
 [Enable S3 bucket Versioning](S3BucketVersioning/)<br />
-[Unassociated Elastic IP Addresses](UnassociatedElasticIPAddresses/)<br/>
+[Unassociated Elastic IP Addresses](UnassociatedElasticIPAddresses/README.md)<br/>
 
 ![Architecture](images/LowUtilizationEC2InstancesArchitecture.jpg)
 
