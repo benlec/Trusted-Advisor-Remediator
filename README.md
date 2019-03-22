@@ -13,6 +13,6 @@ Setup and usage instructions are present for each tool in its respective directo
 [Enable S3 bucket Versioning](S3BucketVersioning/)<br />
 [Unassociated Elastic IP Addresses](UnassociatedElasticIPAddresses/README.md)<br/>
 
-![Architecture](images/LowUtilizationEC2InstancesArchitecture.jpg)
+![Architecture](images/TAremediationLogic.JPG)
 
 More information about Trusted Advisor is available here: https://aws.amazon.com/premiumsupport/trustedadvisor/
