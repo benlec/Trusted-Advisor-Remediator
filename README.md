@@ -4,14 +4,13 @@
 AWS Trusted Advisor provides real time guidance to help users provision their resources following AWS best practices. You can now create configurable, rule-based events for automated actions based on AWS Trusted Advisor’s library of best-practice checks using Amazon CloudWatch Events.
 The sample functions provided help to automate Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda or SSM Automation. 
 
+### Logic
+
+![Architecture](images/TAremediationLogic.JPG)
+
 ### Setup and Usage
 
 Setup and usage instructions are present for each tool in its respective directory: <br />
-[Stop Amazon EC2 instances with low utilization](LowUtilizationEC2Instances/) <br />
-[Create snapshots for EBS volumes with no recent backup](AmazonEBSSnapshots/) <br />
-[Delete exposed IAM Keys and monitor usage](ExposedAccessKeys/)<br />
-[Enable S3 bucket Versioning](S3BucketVersioning/)<br />
-[Unassociated Elastic IP Addresses](UnassociatedElasticIPAddresses/README.md)<br/>
 
 <table border=0 cellpadding=0 cellspacing=0 width=739 style='border-collapse:
  collapse;table-layout:fixed;width:555pt'>
@@ -37,7 +36,7 @@ Setup and usage instructions are present for each tool in its respective directo
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl653814 style='height:15.0pt'>Cost Optimization</td>
-  <td class=xl153814><a href="UnassociatedElasticIPAddresses/README.md">Unassociated Elastic IP Addresses</a>/td>
+  <td class=xl153814><a href="UnassociatedElasticIPAddresses/README.md">Unassociated Elastic IP Addresses</a></td>
   <td class=xl153814></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
@@ -344,9 +343,5 @@ Setup and usage instructions are present for each tool in its respective directo
  <![endif]>
 </table>
 
-
-
-
-![Architecture](images/TAremediationLogic.JPG)
 
 More information about Trusted Advisor is available here: https://aws.amazon.com/premiumsupport/trustedadvisor/
