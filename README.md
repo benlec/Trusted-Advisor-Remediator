@@ -320,12 +320,12 @@ Setup and usage instructions are present for each tool in its respective directo
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl653814 style='height:15.0pt'>Security</td>
-  <td class=xl153814>Amazon EBS Public Snapshots</td>
+  <td class=xl153814><a href="AmazonEBSPublicSnapshots/">Amazon EBS Public Snapshots</a></td>
   <td class=xl153814></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl653814 style='height:15.0pt'>Security</td>
-  <td class=xl153814>Amazon RDS Public Snapshots</td>
+  <td class=xl153814><a href="AmazonRDSPublicSnapshots/">Amazon RDS Public Snapshots</a></td>
   <td class=xl153814></td>
  </tr>
  <tr height=20 style='height:15.0pt'>

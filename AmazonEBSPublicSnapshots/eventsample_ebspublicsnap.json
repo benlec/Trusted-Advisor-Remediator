@@ -1,0 +1,23 @@
+{
+  "version": "0",
+  "id": "c6a9993c-7674-ff18-90af-frt4fded01be",
+  "detail-type": "Trusted Advisor Check Item Refresh Notification",
+  "source": "aws.trustedadvisor",
+  "account": "123456789123",
+  "time": "2019-03-27T09:51:00Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "check-name": "Amazon EBS Public Snapshots",
+    "check-item-detail": {
+      "Status": "Red",
+      "Description": "YOUR_PUBLIC_SNAPSHOT",
+      "Volume ID": "vol-0a8rdc41755e5688c",
+      "Region": "eu-west-1",
+      "Snapshot ID": "snap-1b63b04d80a91bd3v"
+    },
+    "status": "ERROR",
+    "resource_id": "",
+    "uuid": "2acfg526-dfa5-4b81-8c14-759f1bbf3a0a"
+  }
+}

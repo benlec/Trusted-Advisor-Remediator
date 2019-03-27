@@ -1,0 +1,22 @@
+{
+  "version": "0",
+  "id": "53d1c7db-cc3e-3ff2-ee32-2c2d18f4499b",
+  "detail-type": "Trusted Advisor Check Item Refresh Notification",
+  "source": "aws.trustedadvisor",
+  "account": "517675598740",
+  "time": "2019-03-27T09:40:57Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "check-name": "Amazon RDS Public Snapshots",
+    "check-item-detail": {
+      "Status": "Red",
+      "DB Instance or Cluster ID": "sm1drdgz83q6hpm",
+      "Region": "eu-west-1",
+      "Snapshot ID": "arn:aws:rds:eu-west-1:517675598740:snapshot:please-whitelist-itspublic-on-purpose-there-is-no-data-exposed"
+    },
+    "status": "ERROR",
+    "resource_id": "",
+    "uuid": "ea5d59b0-cf75-4d96-b08f-0d78153bec6e"
+  }
+}
