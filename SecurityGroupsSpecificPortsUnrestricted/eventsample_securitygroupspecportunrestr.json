@@ -1,0 +1,24 @@
+ {
+    "version": "0",
+    "id": "d4fedd7d-97cf-c0a2-a1c6-eeaf1f44ee06",
+    "detail-type": "Trusted Advisor Check Item Refresh Notification",
+    "source": "aws.trustedadvisor",
+    "account": "517675598740",
+    "time": "2019-03-27T16:25:19Z",
+    "region": "us-east-1",
+    "resources": [],
+  "detail": {
+    "check-name": "Security Groups - Specific Ports Unrestricted",
+    "check-item-detail": {
+      "Status": "Red",
+      "Security Group ID": "sg-0f5fgb26dc13f896c0e3 (vpc-0afabea05123swqcc)",
+      "Security Group Name": "launch-wizard-1",
+      "Region": "us-east-2",
+      "Ports": "3389",
+      "Protocol": "tcp"
+    },
+    "status": "ERROR",
+    "resource_id": "arn:aws:ec2:us-east-2:123456789456:security-group/sg-0f5fgb26dc13f896c0e3",
+    "uuid": "ae2d8d34-7d63-4345-ef56-769031f5fgh5"
+  }
+}
