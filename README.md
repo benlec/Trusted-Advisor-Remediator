@@ -36,7 +36,7 @@ Setup and usage instructions are present for each tool in its respective directo
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl653814 style='height:15.0pt'>Cost Optimization</td>
-  <td class=xl153814><a href="UnassociatedElasticIPAddresses/README.md">Unassociated Elastic IP Addresses</a></td>
+  <td class=xl153814><a href="UnassociatedElasticIPAddresses/">Unassociated Elastic IP Addresses</a></td>
   <td class=xl153814></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
