@@ -16,7 +16,7 @@ Documentation on how to create an IAM role for Lambda is available here: http://
 2. Create a **Lambda Python** 3.7 function using the [sample](SecurityGroupCleanup.py) provided and choose the IAM role created in step 1. Make sure to set the appropriate tags and region per your requirements in configuration section of the Lambda function. 
 More information about Lambda is available here: http://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
 
-3. Create a Cloudwatch event rule to trigger the Lambda function created in step 2 matching the **ERROR AND WARN status** and the **Amazon EBS Public Snapshot** Trusted Advisor check. An example of this is highlighted in the sample [Cloudwatch Event Pattern](eventsample_securitygroupspecportunrestr.json).
+3. Create a Cloudwatch event rule to trigger the Lambda function created in step 2 matching the **ERROR AND WARN status** and the **Security Groups - Specific Ports Unrestricted** Trusted Advisor check. An example of this is highlighted in the sample [Cloudwatch Event Pattern](eventsample_securitygroupspecportunrestr.json).
 Documentation on to create a Trusted Advisor Cloudwatch events rule is available here: http://docs.aws.amazon.com/awssupport/latest/user/cloudwatch-events-ta.html
 
 More information about Trusted Advisor is available here: https://aws.amazon.com/premiumsupport/trustedadvisor/
