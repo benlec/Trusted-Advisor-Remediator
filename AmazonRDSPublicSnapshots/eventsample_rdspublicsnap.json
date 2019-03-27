@@ -11,7 +11,7 @@
     "check-name": "Amazon RDS Public Snapshots",
     "check-item-detail": {
       "Status": "Red",
-      "DB Instance or Cluster ID": "sm1drdgz83q6hpm",
+      "DB Instance or Cluster ID": "ng1drdgz96q6ijp",
       "Region": "eu-west-1",
       "Snapshot ID": "arn:aws:rds:eu-west-1:123456789123:snapshot:your-snapshot-name-here"
     },
