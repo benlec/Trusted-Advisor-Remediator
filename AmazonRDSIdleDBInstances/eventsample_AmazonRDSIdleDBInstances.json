@@ -1,0 +1,25 @@
+{
+  "version": "0",
+  "id": "e1e63b8g-30af-8e40-a058-7c8a3a54ghc7",
+  "detail-type": "Trusted Advisor Check Item Refresh Notification",
+  "source": "aws.trustedadvisor",
+  "account": "123456789456",
+  "time": "2019-03-28T09:53:30Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "check-name": "Amazon RDS Idle DB Instances",
+    "check-item-detail": {
+      "Instance Type": "db.r4.xlarge",
+      "Region": "eu-west-3",
+      "Days Since Last Connection": "14+",
+      "Storage Provisioned (GB)": "1",
+      "DB Instance Name": "auroradb-eu-west-3b",
+      "Estimated Monthly Savings (On Demand)": "$482",
+      "Multi-AZ": "Yes"
+    },
+    "status": "WARN",
+    "resource_id": "arn:aws:rds:eu-west-3:123456789456:db:auroradb-eu-west-3b",
+    "uuid": "313bbd44-8f41-8652-9890-dac32540b8d4"
+  }
+}

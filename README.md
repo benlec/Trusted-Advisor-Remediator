@@ -46,7 +46,7 @@ Setup and usage instructions are present for each tool in its respective directo
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl653814 style='height:15.0pt'>Cost Optimization</td>
-  <td class=xl153814>Amazon RDS Idle DB Instances</td>
+  <td class=xl153814><a href="AmazonRDSIdleDBInstances/">Amazon RDS Idle DB Instances</a></td>
   <td class=xl153814></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
